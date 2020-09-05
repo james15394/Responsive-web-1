@@ -1,4 +1,4 @@
-## [LINK WEBSITE](responsive-website-94022.web.app)
+## [LINK WEBSITE](https://responsive-website-94022.firebaseapp.com/)
 
 # Responsive website
 
