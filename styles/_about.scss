@@ -1,0 +1,18 @@
+.about-container {
+    .contentBx {
+        .inside {
+            max-width: 800px;
+            margin: 0 auto;
+            h3, p {
+                color: #000;
+                text-align: center;
+            }
+            button {
+                background: #000;
+                color: #fff;
+                padding: 10px 20px;
+        }
+        }
+    }
+    
+}
